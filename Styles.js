@@ -1,3 +1,4 @@
+//Reza
 import {StyleSheet} from 'react-native';
 
 export const Styles = StyleSheet.create({
@@ -6,18 +7,22 @@ export const Styles = StyleSheet.create({
       justifyContent: 'center',
       backgroundColor: '#F5FCFF',
     },
+    
+     //Habiba
     welcome: {
       fontSize: 20,
       textAlign: 'center',
       marginLeft: 10,
       color:'blue'
     },
-    oscar: {
+    habiba: {
 
 fontSize:14,
 margin:10,
 marginLeft:50
     },
+    
+    //Somaiyah
 margary:{
   marginLeft:100
   
