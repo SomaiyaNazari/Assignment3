@@ -15,7 +15,7 @@ export const Styles = StyleSheet.create({
       marginLeft: 10,
       color:'blue'
     },
-    habiba: {
+    word: {
 
 fontSize:14,
 margin:10,
