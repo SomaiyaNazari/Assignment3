@@ -52,11 +52,11 @@ export default class App extends Component{
          <Button color="#841584" onPress={this.AnalyzeWord} title='Analyze'/>
         
         </View>
-        <Text style={Styles.oscar}></Text>
-        <Text style={Styles.oscar}>Word                                         : {this.state.word}</Text>
-        <Text style={Styles.oscar}>No of Consonants                   : {this.state.Consonants}</Text>
-        <Text style={Styles.oscar}>No of Vowels                           : {this.state.Vowel}</Text>
-        <Text style={Styles.oscar}>No of Characters                     : {this.state.Characters}</Text>
+        <Text style={Styles.text}></Text>
+        <Text style={Styles.word}>Word                                         : {this.state.word}</Text>
+        <Text style={Styles.word}>No of Consonants                   : {this.state.Consonants}</Text>
+        <Text style={Styles.word}>No of Vowels                           : {this.state.Vowel}</Text>
+        <Text style={Styles.word}>No of Characters                     : {this.state.Characters}</Text>
         </View>
       </View>
     );
